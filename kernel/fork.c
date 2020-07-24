@@ -48,6 +48,7 @@
 #include <linux/ptrace.h>
 #include <linux/mount.h>
 #include <linux/audit.h>
+#include <linux/binfmts.h>
 #include <linux/memcontrol.h>
 #include <linux/ftrace.h>
 #include <linux/proc_fs.h>
